@@ -1,0 +1,11 @@
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.csprojAssemblyReference.cache
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.AssemblyInfoInputs.cache
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.AssemblyInfo.cs
+C:\Users\user\documents\nameage\nameage\bin\Debug\netcoreapp2.1\nameage.deps.json
+C:\Users\user\documents\nameage\nameage\bin\Debug\netcoreapp2.1\nameage.runtimeconfig.json
+C:\Users\user\documents\nameage\nameage\bin\Debug\netcoreapp2.1\nameage.runtimeconfig.dev.json
+C:\Users\user\documents\nameage\nameage\bin\Debug\netcoreapp2.1\nameage.dll
+C:\Users\user\documents\nameage\nameage\bin\Debug\netcoreapp2.1\nameage.pdb
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.dll
+C:\Users\user\documents\nameage\nameage\obj\Debug\netcoreapp2.1\nameage.pdb
